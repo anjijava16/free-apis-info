@@ -1,5 +1,4 @@
-# free-apis-info
-Free-APIS 
+# Free- API' S 
 
 ### Meetup RSVP URL :
 https://stream.meetup.com/2/rsvps
