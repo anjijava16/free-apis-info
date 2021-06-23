@@ -14,6 +14,7 @@ https://www.mockaroo.com/help/terms_of_use
 https://randomuser.me/api/
 
 ### Social media data but need api account /access key (need to register on this)
+My Twitter account : https://developer.twitter.com/en/apps/12533885
 
 
 ### Free Open Source API'S
